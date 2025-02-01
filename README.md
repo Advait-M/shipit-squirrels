@@ -1,4 +1,4 @@
-# Shipit Squirrels :shipit:
+# Ship It Squirrels :shipit:
 
 Inspired from Github's original Hubot shipit squirrels, these are futuristic shipit squirrels for developers! These squirrels are AI-generated, credits go to OpenAI's DALLE-3 model. Check them out below! 😄
 
