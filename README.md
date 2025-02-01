@@ -41,6 +41,9 @@ For further context see [What is the significance of the GitHub Ship It Squirrel
 </p>
 
 ## 🛠️ Usage
+
+Note that Slack only unfurls images properly if you use the _raw_ links i.e. use https://raw.githubusercontent.com/Advait-M/shipit-squirrels/main/squirrels/shipit-airplane-squirrel.png not https://github.com/Advait-M/shipit-squirrels/blob/main/squirrels/shipit-airplane-squirrel.png!
+
 Use these squirrels to **ship it** in style! 🚢 :shipit:
 
 ---
