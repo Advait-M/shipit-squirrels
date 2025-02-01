@@ -47,8 +47,7 @@ This section assumes you're using this in Slack. If you're using some other mess
 To use this with Slack, you can follow the guide at https://slack.com/resources/using-slack/a-guide-to-slackbot-custom-responses on how to set up custom responses. Specifically, you'll want to set up the following:
 1. The appropriate triggers e.g. `"ship it", "shipit", "ship_it_parrot", "ship all the things"`
 2. The potential responses, each separated by newline - these should be the links to the ship it squirrel images 
-
-Note that Slack only unfurls images properly if you use the _raw_ links i.e. use https://raw.githubusercontent.com/Advait-M/shipit-squirrels/main/squirrels/shipit-airplane-squirrel.png not https://github.com/Advait-M/shipit-squirrels/blob/main/squirrels/shipit-airplane-squirrel.png!
+   - Note that Slack only unfurls images properly if you use the _raw_ links i.e. use https://raw.githubusercontent.com/Advait-M/shipit-squirrels/main/squirrels/shipit-airplane-squirrel.png not https://github.com/Advait-M/shipit-squirrels/blob/main/squirrels/shipit-airplane-squirrel.png!
 
 
 Use these squirrels to **ship it** in style! 🚢 :shipit:
